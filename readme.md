@@ -1,5 +1,7 @@
 # Crosshair
 ![Crosshair Preview](https://github.com/calinux-py/Crosshair/blob/main/crosshairgui.png)
+
+[Download Crosshair](https://github.com/calinux-py/Crosshair/releases/download/crosshair/crosshair.exe)
 ## Features
 
 ### Customizable Crosshair
