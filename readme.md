@@ -38,3 +38,4 @@
 ## Developer
 - **CaliNux**
 
+![Crosshair Preview](https://github.com/calinux-py/Crosshair/blob/main/shot.png)
